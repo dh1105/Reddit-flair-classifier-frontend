@@ -2,7 +2,7 @@
   "name": "flair",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dh1105.github.io/Reddit-flair-classifier",
+  "homepage": "http://dh1105.github.io/Reddit-flair-classifier-frontend",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
