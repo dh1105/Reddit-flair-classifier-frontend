@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Reddit-flair-classifier/static/css/main.977e8f8c.chunk.css",
-    "main.js": "/Reddit-flair-classifier/static/js/main.6e97a444.chunk.js",
-    "main.js.map": "/Reddit-flair-classifier/static/js/main.6e97a444.chunk.js.map",
-    "runtime-main.js": "/Reddit-flair-classifier/static/js/runtime-main.d0987230.js",
-    "runtime-main.js.map": "/Reddit-flair-classifier/static/js/runtime-main.d0987230.js.map",
-    "static/css/2.bb4ba17c.chunk.css": "/Reddit-flair-classifier/static/css/2.bb4ba17c.chunk.css",
-    "static/js/2.fc569f8f.chunk.js": "/Reddit-flair-classifier/static/js/2.fc569f8f.chunk.js",
-    "static/js/2.fc569f8f.chunk.js.map": "/Reddit-flair-classifier/static/js/2.fc569f8f.chunk.js.map",
-    "index.html": "/Reddit-flair-classifier/index.html",
-    "precache-manifest.2f578d5e56aef9df64adcb6698f0f164.js": "/Reddit-flair-classifier/precache-manifest.2f578d5e56aef9df64adcb6698f0f164.js",
-    "service-worker.js": "/Reddit-flair-classifier/service-worker.js",
-    "static/css/2.bb4ba17c.chunk.css.map": "/Reddit-flair-classifier/static/css/2.bb4ba17c.chunk.css.map",
-    "static/css/main.977e8f8c.chunk.css.map": "/Reddit-flair-classifier/static/css/main.977e8f8c.chunk.css.map",
-    "static/js/2.fc569f8f.chunk.js.LICENSE.txt": "/Reddit-flair-classifier/static/js/2.fc569f8f.chunk.js.LICENSE.txt",
-    "static/media/reddit_logo.png": "/Reddit-flair-classifier/static/media/reddit_logo.7dbc3631.png"
+    "main.css": "/Reddit-flair-classifier-frontend/static/css/main.977e8f8c.chunk.css",
+    "main.js": "/Reddit-flair-classifier-frontend/static/js/main.ac0ca931.chunk.js",
+    "main.js.map": "/Reddit-flair-classifier-frontend/static/js/main.ac0ca931.chunk.js.map",
+    "runtime-main.js": "/Reddit-flair-classifier-frontend/static/js/runtime-main.6cba9c79.js",
+    "runtime-main.js.map": "/Reddit-flair-classifier-frontend/static/js/runtime-main.6cba9c79.js.map",
+    "static/css/2.bb4ba17c.chunk.css": "/Reddit-flair-classifier-frontend/static/css/2.bb4ba17c.chunk.css",
+    "static/js/2.fc569f8f.chunk.js": "/Reddit-flair-classifier-frontend/static/js/2.fc569f8f.chunk.js",
+    "static/js/2.fc569f8f.chunk.js.map": "/Reddit-flair-classifier-frontend/static/js/2.fc569f8f.chunk.js.map",
+    "index.html": "/Reddit-flair-classifier-frontend/index.html",
+    "precache-manifest.01da105cd3e55063c146d62954fe4606.js": "/Reddit-flair-classifier-frontend/precache-manifest.01da105cd3e55063c146d62954fe4606.js",
+    "service-worker.js": "/Reddit-flair-classifier-frontend/service-worker.js",
+    "static/css/2.bb4ba17c.chunk.css.map": "/Reddit-flair-classifier-frontend/static/css/2.bb4ba17c.chunk.css.map",
+    "static/css/main.977e8f8c.chunk.css.map": "/Reddit-flair-classifier-frontend/static/css/main.977e8f8c.chunk.css.map",
+    "static/js/2.fc569f8f.chunk.js.LICENSE.txt": "/Reddit-flair-classifier-frontend/static/js/2.fc569f8f.chunk.js.LICENSE.txt",
+    "static/media/reddit_logo.png": "/Reddit-flair-classifier-frontend/static/media/reddit_logo.7dbc3631.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0987230.js",
+    "static/js/runtime-main.6cba9c79.js",
     "static/css/2.bb4ba17c.chunk.css",
     "static/js/2.fc569f8f.chunk.js",
     "static/css/main.977e8f8c.chunk.css",
-    "static/js/main.6e97a444.chunk.js"
+    "static/js/main.ac0ca931.chunk.js"
   ]
 }
